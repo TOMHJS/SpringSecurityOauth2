@@ -1,0 +1,1379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bcb60bb-fc29-46e0-ad2f-6ededa96cc5c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="50" column="20" selection-end-line="86" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/config/AuthorizationServerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/config/ResourceServerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/Springsecurityoauth2DemoApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/config/SecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/config/RedisConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#806#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/xxx/springsecurityoauth2_demo/Springsecurityoauth2DemoApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>configure</find>
+      <find>permit</find>
+      <find>permitAll</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/service/service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/pojo/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/config/ResourceServerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/controller/userController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/Springsecurityoauth2DemoApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/xxx/springsecurityoauth2_demo/Springsecurityoauth2DemoApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/config/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/config/AuthorizationServerConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.0-bin\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.0-bin/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.0-bin\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springsecurityoauth2_demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springsecurityoauth2_demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="18" />
+    <option name="y" value="34" />
+    <option name="width" value="1456" />
+    <option name="height" value="468" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springsecurityoauth2_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsecurityoauth2_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsecurityoauth2_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsecurityoauth2_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsecurityoauth2_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsecurityoauth2_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xxx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsecurityoauth2_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xxx" type="462c0819:PsiDirectoryNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsecurityoauth2_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xxx" type="462c0819:PsiDirectoryNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsecurityoauth2_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xxx" type="462c0819:PsiDirectoryNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsecurityoauth2_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xxx" type="462c0819:PsiDirectoryNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsecurityoauth2_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsecurityoauth2_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsecurityoauth2_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsecurityoauth2_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsecurityoauth2_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xxx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsecurityoauth2_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xxx" type="462c0819:PsiDirectoryNode" />
+              <item name="springsecurityoauth2_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/yeb-master/springsecuritydemo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Springsecurityoauth2DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springsecurityoauth2_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxx.springsecurityoauth2_demo.Springsecurityoauth2DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bcb60bb-fc29-46e0-ad2f-6ededa96cc5c" name="Default Changelist" comment="" />
+      <created>1653955510641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653955510641</updated>
+      <workItem from="1653955512192" duration="19448000" />
+      <workItem from="1653987736586" duration="4468000" />
+      <workItem from="1654004427219" duration="2245000" />
+      <workItem from="1654006870219" duration="138000" />
+      <workItem from="1654007308004" duration="269000" />
+      <workItem from="1654041708485" duration="8177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34745000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34025788" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2991914" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4051144" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.34724092" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3295129" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/security/spring-security-core/3.2.10.RELEASE/spring-security-core-3.2.10.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetailsService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://SPRING/mappedClass=com.xxx.springsecurityoauth2_demo.config.SecurityConfig">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>SPRING</ID>
+          <OriginalElement>mappedClass=com.xxx.springsecurityoauth2_demo.config.SecurityConfig</OriginalElement>
+          <nodes>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=com.xxx.springsecurityoauth2_demo.Springsecurityoauth2DemoApplication;bean_name=springsecurityoauth2DemoApplication</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=com.xxx.springsecurityoauth2_demo.controller.UserController;bean_name=userController</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=com.xxx.springsecurityoauth2_demo.service.UserService;bean_name=userService</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.crypto.password.PasswordEncoder;bean_name=passwordEncoder</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=com.xxx.springsecurityoauth2_demo.config.SecurityConfig;bean_name=securityConfig</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration;bean_name=webSecurityConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.context.DelegatingApplicationListener;bean_name=delegatingApplicationListener</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.access.expression.SecurityExpressionHandler;bean_name=webSecurityExpressionHandler</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=javax.servlet.Filter;bean_name=springSecurityFilterChain</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.web.access.WebInvocationPrivilegeEvaluator;bean_name=privilegeEvaluator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.config.annotation.web.configuration.AutowiredWebSecurityConfigurersIgnoreParents;bean_name=autowiredWebSecurityConfigurersIgnoreParents</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.config.annotation.ObjectPostProcessor;bean_name=objectPostProcessor</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration;bean_name=objectPostProcessorConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration;bean_name=authenticationConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.accept.ContentNegotiationManager;bean_name=mvcContentNegotiationManager</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.context.WebApplicationContext;bean_name=webApplicationContext</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=com.xxx.springsecurityoauth2_demo.config.AuthorizationServerConfig;bean_name=authorizationServerConfig</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerEndpointsConfiguration;bean_name=authorizationServerEndpointsConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerEndpointsConfiguration.TokenKeyEndpointRegistrar;bean_name=tokenKeyEndpointRegistrar</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.provider.endpoint.AuthorizationEndpoint;bean_name=authorizationEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.provider.endpoint.TokenEndpoint;bean_name=tokenEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.provider.endpoint.CheckTokenEndpoint;bean_name=checkTokenEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.provider.endpoint.WhitelabelApprovalEndpoint;bean_name=whitelabelApprovalEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.provider.endpoint.WhitelabelErrorEndpoint;bean_name=whitelabelErrorEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.provider.endpoint.FrameworkEndpointHandlerMapping;bean_name=oauth2EndpointHandlerMapping</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.beans.factory.FactoryBean;bean_name=consumerTokenServices</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.beans.factory.FactoryBean;bean_name=defaultAuthorizationServerTokenServices</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.authserver.OAuth2AuthorizationServerConfiguration;bean_name=OAuth2AuthorizationServerConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.provider.ClientDetailsService;bean_name=clientDetailsService</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerSecurityConfiguration;bean_name=authorizationServerSecurityConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.config.annotation.configuration.ClientDetailsServiceConfiguration;bean_name=clientDetailsServiceConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.config.annotation.configurers.ClientDetailsServiceConfigurer;bean_name=clientDetailsServiceConfigurer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=com.xxx.springsecurityoauth2_demo.config.ResourceServerConfig;bean_name=resourceServerConfig</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.config.annotation.web.configuration.ResourceServerConfiguration;bean_name=resourceServerConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.resource.UserInfoTokenServices;bean_name=userInfoTokenServices</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.provider.token.DefaultTokenServices;bean_name=jwtTokenServices</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.provider.token.DefaultTokenServices;bean_name=jwkTokenServices</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.provider.token.RemoteTokenServices;bean_name=remoteTokenServices</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.authentication.DefaultAuthenticationEventPublisher;bean_name=authenticationEventPublisher</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.provider.token.TokenStore;bean_name=jwtTokenStore</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.provider.token.TokenStore;bean_name=jwkTokenStore</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.info.ProjectInfoAutoConfiguration;bean_name=projectInfoAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.info.GitProperties;bean_name=gitProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.info.BuildProperties;bean_name=buildProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.context.properties.EnableConfigurationPropertiesImportSelector;bean_name=enableConfigurationPropertiesImportSelector</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.info.ProjectInfoProperties;bean_name=spring.info-org.springframework.boot.autoconfigure.info.ProjectInfoProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.management.ThreadDumpEndpointAutoConfiguration;bean_name=threadDumpEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.management.ThreadDumpEndpoint;bean_name=dumpEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.management.HeapDumpWebEndpointAutoConfiguration;bean_name=heapDumpWebEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.management.HeapDumpWebEndpoint;bean_name=heapDumpWebEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration.WhitelabelErrorViewConfiguration;bean_name=whitelabelErrorViewConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.View;bean_name=error</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.view.BeanNameViewResolver;bean_name=beanNameViewResolver</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.http.codec.CodecsAutoConfiguration.JacksonCodecConfiguration;bean_name=jacksonCodecConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.web.codec.CodecCustomizer;bean_name=jacksonCodecCustomizer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration;bean_name=userDetailsServiceAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.provisioning.InMemoryUserDetailsManager;bean_name=inMemoryUserDetailsManager</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.audit.AuditAutoConfiguration.AuditEventRepositoryConfiguration;bean_name=auditEventRepositoryConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.audit.InMemoryAuditEventRepository;bean_name=auditEventRepository</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.mappings.MappingsEndpointAutoConfiguration;bean_name=mappingsEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.web.mappings.MappingsEndpoint;bean_name=mappingsEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.mappings.MappingsEndpointAutoConfiguration.ServletWebConfiguration;bean_name=servletWebConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.web.mappings.servlet.ServletsMappingDescriptionProvider;bean_name=servletMappingDescriptionProvider</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.web.mappings.servlet.FiltersMappingDescriptionProvider;bean_name=filterMappingDescriptionProvider</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.mappings.MappingsEndpointAutoConfiguration.ServletWebConfiguration.SpringMvcConfiguration;bean_name=springMvcConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.web.mappings.servlet.DispatcherServletsMappingDescriptionProvider;bean_name=dispatcherServletMappingDescriptionProvider</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.hypermedia.CloudHypermediaAutoConfiguration;bean_name=cloudHypermediaAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.hypermedia.RemoteResourceRefresher;bean_name=discoveredResourceRefresher</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.hypermedia.CloudHypermediaAutoConfiguration.CloudHypermediaProperties;bean_name=spring.cloud.hypermedia-org.springframework.cloud.client.hypermedia.CloudHypermediaAutoConfiguration.CloudHypermediaProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.autoconfigure.RefreshAutoConfiguration;bean_name=refreshAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.context.scope.refresh.RefreshScope;bean_name=refreshScope</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.logging.LoggingRebinder;bean_name=loggingRebinder</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.context.refresh.ContextRefresher;bean_name=contextRefresher</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.endpoint.event.RefreshEventListener;bean_name=refreshEventListener</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.Jackson2ObjectMapperBuilderCustomizerConfiguration;bean_name=jackson2ObjectMapperBuilderCustomizerConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.Jackson2ObjectMapperBuilderCustomizerConfiguration.StandardJackson2ObjectMapperBuilderCustomizer;bean_name=standardJacksonObjectMapperBuilderCustomizer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonProperties;bean_name=spring.jackson-org.springframework.boot.autoconfigure.jackson.JacksonProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryAutoConfiguration;bean_name=servletWebServerFactoryAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryAutoConfiguration.BeanPostProcessorsRegistrar;bean_name=beanPostProcessorsRegistrar</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryConfiguration.EmbeddedTomcat;bean_name=embeddedTomcat</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory;bean_name=tomcatServletWebServerFactory</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryCustomizer;bean_name=servletWebServerFactoryCustomizer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.TomcatServletWebServerFactoryCustomizer;bean_name=tomcatServletWebServerFactoryCustomizer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.ServerProperties;bean_name=server-org.springframework.boot.autoconfigure.web.ServerProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.configuration.CompatibilityVerifierAutoConfiguration;bean_name=compatibilityVerifierAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.configuration.CompositeCompatibilityVerifier;bean_name=compositeCompatibilityVerifier</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.configuration.SpringBootVersionVerifier;bean_name=springBootVersionVerifier</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.configuration.CompatibilityVerifierProperties;bean_name=spring.cloud.compatibility-verifier-org.springframework.cloud.configuration.CompatibilityVerifierProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.discovery.simple.SimpleDiscoveryClientAutoConfiguration;bean_name=simpleDiscoveryClientAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.discovery.simple.SimpleDiscoveryProperties;bean_name=simpleDiscoveryProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.discovery.DiscoveryClient;bean_name=simpleDiscoveryClient</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.commons.util.InetUtils;bean_name=inetUtils</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.serviceregistry.ServiceRegistryAutoConfiguration;bean_name=serviceRegistryAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.export.simple.SimpleMetricsExportAutoConfiguration;bean_name=simpleMetricsExportAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=io.micrometer.core.instrument.simple.SimpleMeterRegistry;bean_name=simpleMeterRegistry</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=io.micrometer.core.instrument.simple.SimpleConfig;bean_name=simpleConfig</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.export.simple.SimpleProperties;bean_name=management.metrics.export.simple-org.springframework.boot.actuate.autoconfigure.metrics.export.simple.SimpleProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.commons.httpclient.HttpClientConfiguration;bean_name=httpClientConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration;bean_name=webEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.endpoint.web.PathMapper;bean_name=webEndpointPathMapper</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.endpoint.web.EndpointMediaTypes;bean_name=endpointMediaTypes</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.endpoint.web.annotation.WebEndpointDiscoverer;bean_name=webEndpointDiscoverer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.endpoint.web.annotation.ControllerEndpointDiscoverer;bean_name=controllerEndpointDiscoverer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.endpoint.web.PathMappedEndpoints;bean_name=pathMappedEndpoints</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.endpoint.ExposeExcludePropertyEndpointFilter;bean_name=webExposeExcludePropertyEndpointFilter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.endpoint.ExposeExcludePropertyEndpointFilter;bean_name=controllerExposeExcludePropertyEndpointFilter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration.WebEndpointServletConfiguration;bean_name=webEndpointServletConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.endpoint.web.annotation.ServletEndpointDiscoverer;bean_name=servletEndpointDiscoverer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointProperties;bean_name=management.endpoints.web-org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration;bean_name=securityAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.servlet.SpringBootWebSecurityConfiguration;bean_name=springBootWebSecurityConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.servlet.WebSecurityEnablerConfiguration;bean_name=webSecurityEnablerConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.servlet.SpringBootWebSecurityConfiguration.DefaultConfigurerAdapter;bean_name=defaultConfigurerAdapter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;bean_name=authenticationManagerBuilder</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.config.annotation.authentication.configurers.GlobalAuthenticationConfigurerAdapter;bean_name=enableGlobalAuthenticationAutowiredConfigurer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.SecurityProperties;bean_name=spring.security-org.springframework.boot.autoconfigure.security.SecurityProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.web.servlet.WebMvcMetricsAutoConfiguration;bean_name=webMvcMetricsAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.metrics.web.servlet.DefaultWebMvcTagsProvider;bean_name=webMvcTagsProvider</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.web.servlet.FilterRegistrationBean;bean_name=webMvcMetricsFilter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=io.micrometer.core.instrument.config.MeterFilter;bean_name=metricsHttpServerUriTagFilter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.web.servlet.WebMvcMetricsAutoConfiguration.MetricsWebMvcConfigurer;bean_name=metricsWebMvcConfigurer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.MetricsProperties;bean_name=management.metrics-org.springframework.boot.actuate.autoconfigure.metrics.MetricsProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.context.ShutdownEndpointAutoConfiguration;bean_name=shutdownEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.context.ShutdownEndpoint;bean_name=shutdownEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration;bean_name=configurationPropertiesRebinderAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.context.properties.ConfigurationPropertiesBeans;bean_name=configurationPropertiesBeans</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.context.properties.ConfigurationPropertiesRebinder;bean_name=configurationPropertiesRebinder</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.logging.LogFileWebEndpointAutoConfiguration;bean_name=logFileWebEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.logging.LogFileWebEndpoint;bean_name=logFileWebEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.logging.LogFileWebEndpointProperties;bean_name=management.endpoint.logfile-org.springframework.boot.actuate.autoconfigure.logging.LogFileWebEndpointProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.CommonsClientAutoConfiguration;bean_name=commonsClientAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.CommonsClientAutoConfiguration.ActuatorConfiguration;bean_name=actuatorConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.actuator.FeaturesEndpoint;bean_name=featuresEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.actuator.HasFeatures;bean_name=commonsFeatures</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.CommonsClientAutoConfiguration.DiscoveryLoadBalancerConfiguration;bean_name=discoveryLoadBalancerConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.discovery.health.DiscoveryClientHealthIndicator;bean_name=discoveryClientHealthIndicator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.discovery.health.DiscoveryCompositeHealthIndicator;bean_name=discoveryCompositeHealthIndicator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.health.OrderedHealthAggregator;bean_name=healthAggregator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.discovery.health.DiscoveryClientHealthIndicatorProperties;bean_name=spring.cloud.discovery.client.health-indicator-org.springframework.cloud.client.discovery.health.DiscoveryClientHealthIndicatorProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.http.codec.CodecsAutoConfiguration.LoggingCodecConfiguration;bean_name=loggingCodecConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.web.codec.CodecCustomizer;bean_name=loggingCodecCustomizer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.http.HttpProperties;bean_name=spring.http-org.springframework.boot.autoconfigure.http.HttpProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.servlet.SecurityRequestMatcherProviderAutoConfiguration.MvcRequestMatcherConfiguration;bean_name=mvcRequestMatcherConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.servlet.RequestMatcherProvider;bean_name=requestMatcherProvider</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.autoconfigure.LifecycleMvcEndpointAutoConfiguration;bean_name=lifecycleMvcEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.context.environment.EnvironmentManager;bean_name=environmentManager</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.cloudfoundry.servlet.CloudFoundryActuatorAutoConfiguration.IgnoredPathsWebSecurityConfigurer;bean_name=ignoredPathsWebSecurityConfigurer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.MetricsEndpointAutoConfiguration;bean_name=metricsEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.metrics.MetricsEndpoint;bean_name=metricsEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.condition.ConditionsReportEndpointAutoConfiguration;bean_name=conditionsReportEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.condition.ConditionsReportEndpoint;bean_name=conditionsReportEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration.LoadBalancerInterceptorConfig;bean_name=loadBalancerInterceptorConfig</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.loadbalancer.LoadBalancerInterceptor;bean_name=ribbonInterceptor</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.loadbalancer.RestTemplateCustomizer;bean_name=restTemplateCustomizer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.scheduling.ScheduledTasksEndpointAutoConfiguration;bean_name=scheduledTasksEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.scheduling.ScheduledTasksEndpoint;bean_name=scheduledTasksEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.JacksonObjectMapperBuilderConfiguration;bean_name=jacksonObjectMapperBuilderConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.http.converter.json.Jackson2ObjectMapperBuilder;bean_name=jacksonObjectMapperBuilder</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.context.properties.ConfigurationPropertiesReportEndpointAutoConfiguration;bean_name=configurationPropertiesReportEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.context.properties.ConfigurationPropertiesReportEndpoint;bean_name=configurationPropertiesReportEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.context.properties.ConfigurationPropertiesReportEndpointProperties;bean_name=management.endpoint.configprops-org.springframework.boot.actuate.autoconfigure.context.properties.ConfigurationPropertiesReportEndpointProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.trace.http.HttpTraceEndpointAutoConfiguration;bean_name=httpTraceEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.trace.http.HttpTraceEndpoint;bean_name=httpTraceEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.context.MessageSourceAutoConfiguration;bean_name=messageSourceAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.context.MessageSourceProperties;bean_name=messageSourceProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.context.MessageSource;bean_name=messageSource</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration;bean_name=metricsAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=io.micrometer.core.instrument.Clock;bean_name=micrometerClock</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.MeterRegistryPostProcessor;bean_name=meterRegistryPostProcessor</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.PropertiesMeterFilter;bean_name=propertiesMeterFilter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration.StringHttpMessageConverterConfiguration;bean_name=stringHttpMessageConverterConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.http.converter.StringHttpMessageConverter;bean_name=stringHttpMessageConverter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.loadbalancer.AsyncLoadBalancerAutoConfiguration.AsyncRestTemplateCustomizerConfig;bean_name=asyncRestTemplateCustomizerConfig</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.beans.factory.SmartInitializingSingleton;bean_name=loadBalancedAsyncRestTemplateInitializer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.health.HealthEndpointAutoConfiguration;bean_name=healthEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.health.HealthEndpointConfiguration;bean_name=healthEndpointConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.health.HealthEndpoint;bean_name=healthEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.health.HealthEndpointWebExtensionConfiguration;bean_name=healthEndpointWebExtensionConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.health.HealthStatusHttpMapper;bean_name=createHealthStatusHttpMapper</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.health.HealthWebEndpointResponseMapper;bean_name=healthWebEndpointResponseMapper</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.health.HealthEndpointWebExtensionConfiguration.ServletWebHealthConfiguration;bean_name=servletWebHealthConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.health.HealthEndpointWebExtension;bean_name=healthEndpointWebExtension</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.health.HealthIndicatorProperties;bean_name=management.health.status-org.springframework.boot.actuate.autoconfigure.health.HealthIndicatorProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.health.HealthEndpointProperties;bean_name=management.endpoint.health-org.springframework.boot.actuate.autoconfigure.health.HealthEndpointProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.audit.AuditEventsEndpointAutoConfiguration;bean_name=auditEventsEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.audit.AuditEventsEndpoint;bean_name=auditEventsEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.LogbackMetricsAutoConfiguration;bean_name=logbackMetricsAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=io.micrometer.core.instrument.binder.logging.LogbackMetrics;bean_name=logbackMetrics</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration;bean_name=dispatcherServletAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration.DispatcherServletRegistrationConfiguration;bean_name=dispatcherServletRegistrationConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration.DispatcherServletConfiguration;bean_name=dispatcherServletConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.DispatcherServlet;bean_name=dispatcherServlet</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.multipart.MultipartResolver;bean_name=multipartResolver</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.DispatcherServletRegistrationBean;bean_name=dispatcherServletRegistration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.WebMvcProperties;bean_name=spring.mvc-org.springframework.boot.autoconfigure.web.servlet.WebMvcProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration;bean_name=jmxAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.jmx.export.annotation.AnnotationMBeanExporter;bean_name=mbeanExporter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.jmx.ParentAwareNamingStrategy;bean_name=objectNamingStrategy</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=javax.management.MBeanServer;bean_name=mbeanServer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.web.client.HttpClientMetricsAutoConfiguration;bean_name=httpClientMetricsAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.web.client.RestTemplateMetricsConfiguration;bean_name=restTemplateMetricsConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.metrics.web.client.DefaultRestTemplateExchangeTagsProvider;bean_name=restTemplateTagConfigurer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.metrics.web.client.MetricsRestTemplateCustomizer;bean_name=metricsRestTemplateCustomizer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=io.micrometer.core.instrument.config.MeterFilter;bean_name=metricsHttpClientUriTagFilter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.logging.LoggersEndpointAutoConfiguration;bean_name=loggersEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.logging.LoggersEndpoint;bean_name=loggersEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.task.TaskSchedulingAutoConfiguration;bean_name=taskSchedulingAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler;bean_name=taskScheduler</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.task.TaskSchedulerBuilder;bean_name=taskSchedulerBuilder</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.task.TaskSchedulingProperties;bean_name=spring.task.scheduling-org.springframework.boot.autoconfigure.task.TaskSchedulingProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.trace.http.HttpTraceAutoConfiguration.ServletTraceFilterConfiguration;bean_name=servletTraceFilterConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.web.trace.servlet.HttpTraceFilter;bean_name=httpTraceFilter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.discovery.noop.NoopDiscoveryClientAutoConfiguration;bean_name=noopDiscoveryClientAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.discovery.DiscoveryClient;bean_name=discoveryClient</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.core.env.Environment;bean_name=environment</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration;bean_name=jacksonAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.jackson.JsonComponentModule;bean_name=jsonComponentModule</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.JacksonObjectMapperConfiguration;bean_name=jacksonObjectMapperConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=com.fasterxml.jackson.databind.ObjectMapper;bean_name=jacksonObjectMapper</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.ParameterNamesModuleConfiguration;bean_name=parameterNamesModuleConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=com.fasterxml.jackson.module.paramnames.ParameterNamesModule;bean_name=parameterNamesModule</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration;bean_name=loadBalancerAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.beans.factory.SmartInitializingSingleton;bean_name=loadBalancedRestTemplateInitializerDeprecated</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.loadbalancer.LoadBalancerRequestFactory;bean_name=loadBalancerRequestFactory</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.loadbalancer.LoadBalancerRetryProperties;bean_name=spring.cloud.loadbalancer.retry-org.springframework.cloud.client.loadbalancer.LoadBalancerRetryProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter;bean_name=requestMappingHandlerAdapter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping;bean_name=requestMappingHandlerMapping</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.format.support.FormattingConversionService;bean_name=mvcConversionService</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.validation.Validator;bean_name=mvcValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.util.PathMatcher;bean_name=mvcPathMatcher</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.util.UrlPathHelper;bean_name=mvcUrlPathHelper</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.HandlerMapping;bean_name=viewControllerHandlerMapping</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping;bean_name=beanNameHandlerMapping</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.HandlerMapping;bean_name=resourceHandlerMapping</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.resource.ResourceUrlProvider;bean_name=mvcResourceUrlProvider</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.HandlerMapping;bean_name=defaultServletHandlerMapping</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.method.support.CompositeUriComponentsContributor;bean_name=mvcUriComponentsContributor</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter;bean_name=httpRequestHandlerAdapter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter;bean_name=simpleControllerHandlerAdapter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.HandlerExceptionResolver;bean_name=handlerExceptionResolver</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.ViewResolver;bean_name=mvcViewResolver</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.handler.HandlerMappingIntrospector;bean_name=mvcHandlerMappingIntrospector</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.commons.util.UtilAutoConfiguration;bean_name=utilAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.commons.util.InetUtilsProperties;bean_name=inetUtilsProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.beans.BeansEndpointAutoConfiguration;bean_name=beansEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.beans.BeansEndpoint;bean_name=beansEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.loadbalancer.AsyncLoadBalancerAutoConfiguration.LoadBalancerInterceptorConfig;bean_name=loadBalancerInterceptorConfig</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.loadbalancer.AsyncLoadBalancerInterceptor;bean_name=asyncLoadBalancerInterceptor</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.loadbalancer.AsyncRestTemplateCustomizer;bean_name=asyncRestTemplateCustomizer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.server.ManagementContextAutoConfiguration;bean_name=managementContextAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.server.ManagementContextAutoConfiguration.SameManagementContextConfiguration;bean_name=sameManagementContextConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.server.ManagementContextAutoConfiguration.SameManagementContextConfiguration.EnableSameManagementContextConfiguration;bean_name=enableSameManagementContextConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.server.ManagementContextConfigurationImportSelector;bean_name=managementContextConfigurationImportSelector</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.endpoint.web.ServletEndpointManagementContextConfiguration;bean_name=servletEndpointManagementContextConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.endpoint.ExposeExcludePropertyEndpointFilter;bean_name=servletExposeExcludePropertyEndpointFilter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.endpoint.web.ServletEndpointManagementContextConfiguration.WebMvcServletEndpointManagementContextConfiguration;bean_name=webMvcServletEndpointManagementContextConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.endpoint.web.ServletEndpointRegistrar;bean_name=servletEndpointRegistrar</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.servlet.ServletManagementChildContextConfiguration;bean_name=servletManagementChildContextConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.servlet.ServletManagementChildContextConfiguration.ServletManagementWebServerFactoryCustomizer;bean_name=servletManagementWebServerFactoryCustomizer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.servlet.ServletManagementChildContextConfiguration.UndertowAccessLogCustomizer;bean_name=undertowManagementAccessLogCustomizer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.servlet.ServletManagementChildContextConfiguration.TomcatAccessLogCustomizer;bean_name=tomcatManagementAccessLogCustomizer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.servlet.ServletManagementChildContextConfiguration.JettyAccessLogCustomizer;bean_name=jettyManagementAccessLogCustomizer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.servlet.ServletManagementChildContextConfiguration.ServletManagementContextSecurityConfiguration;bean_name=servletManagementContextSecurityConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.endpoint.web.servlet.WebMvcEndpointManagementContextConfiguration;bean_name=webMvcEndpointManagementContextConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping;bean_name=webEndpointServletHandlerMapping</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.endpoint.web.servlet.ControllerEndpointHandlerMapping;bean_name=controllerEndpointHandlerMapping</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.endpoint.web.CorsEndpointProperties;bean_name=management.endpoints.web.cors-org.springframework.boot.actuate.autoconfigure.endpoint.web.CorsEndpointProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.servlet.WebMvcEndpointChildContextConfiguration;bean_name=webMvcEndpointChildContextConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.servlet.ManagementErrorEndpoint;bean_name=errorEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.servlet.CompositeHandlerMapping;bean_name=handlerMapping</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.servlet.CompositeHandlerAdapter;bean_name=handlerAdapter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.servlet.CompositeHandlerExceptionResolver;bean_name=handlerExceptionResolver</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.filter.RequestContextFilter;bean_name=requestContextFilter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration;bean_name=delegatingWebMvcConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.server.ManagementServerProperties;bean_name=management.server-org.springframework.boot.actuate.autoconfigure.web.server.ManagementServerProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration.TomcatWebSocketConfiguration;bean_name=tomcatWebSocketConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.websocket.servlet.TomcatWebSocketServletWebServerCustomizer;bean_name=websocketServletWebServerCustomizer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.loadbalancer.AsyncLoadBalancerAutoConfiguration;bean_name=asyncLoadBalancerAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.task.TaskExecutionAutoConfiguration;bean_name=taskExecutionAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.task.TaskExecutorBuilder;bean_name=taskExecutorBuilder</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;bean_name=applicationTaskExecutor</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.task.TaskExecutionProperties;bean_name=spring.task.execution-org.springframework.boot.autoconfigure.task.TaskExecutionProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.HttpEncodingAutoConfiguration;bean_name=httpEncodingAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.filter.CharacterEncodingFilter;bean_name=characterEncodingFilter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.HttpEncodingAutoConfiguration.LocaleCharsetMappingsCustomizer;bean_name=localeCharsetMappingsCustomizer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.servlet.SecurityRequestMatcherProviderAutoConfiguration;bean_name=securityRequestMatcherProviderAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration;bean_name=errorMvcAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.web.servlet.error.DefaultErrorAttributes;bean_name=errorAttributes</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController;bean_name=basicErrorController</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration.ErrorPageCustomizer;bean_name=errorPageCustomizer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration.PreserveErrorControllerTargetClassPostProcessor;bean_name=preserveErrorControllerTargetClassPostProcessor</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration.DefaultErrorViewResolverConfiguration;bean_name=defaultErrorViewResolverConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.error.DefaultErrorViewResolver;bean_name=conventionErrorViewResolver</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.ResourceProperties;bean_name=spring.resources-org.springframework.boot.autoconfigure.web.ResourceProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration;bean_name=embeddedWebServerFactoryCustomizerAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration.TomcatWebServerFactoryCustomizerConfiguration;bean_name=tomcatWebServerFactoryCustomizerConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.embedded.TomcatWebServerFactoryCustomizer;bean_name=tomcatWebServerFactoryCustomizer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.security.oauth2.client.ResourceServerTokenRelayAutoConfiguration;bean_name=resourceServerTokenRelayAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.security.oauth2.client.AccessTokenContextRelay;bean_name=accessTokenContextRelay</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.security.oauth2.client.ResourceServerTokenRelayAutoConfiguration.ResourceServerTokenRelayRegistrationAutoConfiguration;bean_name=resourceServerTokenRelayRegistrationAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.validation.ValidationAutoConfiguration;bean_name=validationAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.validation.PrimaryDefaultValidatorPostProcessor;bean_name=primaryDefaultValidatorPostProcessor</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.validation.beanvalidation.LocalValidatorFactoryBean;bean_name=defaultValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.validation.beanvalidation.MethodValidationPostProcessor;bean_name=methodValidationPostProcessor</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForReadableInstant;bean_name=futureOrPresentValidatorForReadableInstant</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForLocalTime;bean_name=futureOrPresentValidatorForLocalTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForInstant;bean_name=futureOrPresentValidatorForInstant</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForJapaneseDate;bean_name=futureOrPresentValidatorForJapaneseDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForHijrahDate;bean_name=futureOrPresentValidatorForHijrahDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForZonedDateTime;bean_name=futureOrPresentValidatorForZonedDateTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForLocalDateTime;bean_name=futureOrPresentValidatorForLocalDateTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForCalendar;bean_name=futureOrPresentValidatorForCalendar</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForOffsetTime;bean_name=futureOrPresentValidatorForOffsetTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForMonthDay;bean_name=futureOrPresentValidatorForMonthDay</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForThaiBuddhistDate;bean_name=futureOrPresentValidatorForThaiBuddhistDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForOffsetDateTime;bean_name=futureOrPresentValidatorForOffsetDateTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForLocalDate;bean_name=futureOrPresentValidatorForLocalDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForReadablePartial;bean_name=futureOrPresentValidatorForReadablePartial</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForMinguoDate;bean_name=futureOrPresentValidatorForMinguoDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForYearMonth;bean_name=futureOrPresentValidatorForYearMonth</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForDate;bean_name=futureOrPresentValidatorForDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForYear;bean_name=futureOrPresentValidatorForYear</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.money.MinValidatorForMonetaryAmount;bean_name=minValidatorForMonetaryAmount</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.money.PositiveOrZeroValidatorForMonetaryAmount;bean_name=positiveOrZeroValidatorForMonetaryAmount</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMinValidatorForMonetaryAmount;bean_name=decimalMinValidatorForMonetaryAmount</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.money.NegativeValidatorForMonetaryAmount;bean_name=negativeValidatorForMonetaryAmount</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.money.NegativeOrZeroValidatorForMonetaryAmount;bean_name=negativeOrZeroValidatorForMonetaryAmount</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount;bean_name=decimalMaxValidatorForMonetaryAmount</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.money.CurrencyValidatorForMonetaryAmount;bean_name=currencyValidatorForMonetaryAmount</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.money.PositiveValidatorForMonetaryAmount;bean_name=positiveValidatorForMonetaryAmount</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.money.MaxValidatorForMonetaryAmount;bean_name=maxValidatorForMonetaryAmount</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForShort;bean_name=negativeValidatorForShort</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForNumber;bean_name=negativeOrZeroValidatorForNumber</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForShort;bean_name=negativeOrZeroValidatorForShort</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForInteger;bean_name=positiveOrZeroValidatorForInteger</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForLong;bean_name=positiveOrZeroValidatorForLong</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForDouble;bean_name=negativeValidatorForDouble</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForDouble;bean_name=negativeOrZeroValidatorForDouble</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForBigInteger;bean_name=negativeOrZeroValidatorForBigInteger</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForDouble;bean_name=positiveValidatorForDouble</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForBigDecimal;bean_name=negativeOrZeroValidatorForBigDecimal</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForInteger;bean_name=negativeValidatorForInteger</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForFloat;bean_name=negativeValidatorForFloat</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForBigDecimal;bean_name=positiveOrZeroValidatorForBigDecimal</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForByte;bean_name=negativeValidatorForByte</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForByte;bean_name=positiveOrZeroValidatorForByte</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForLong;bean_name=positiveValidatorForLong</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForNumber;bean_name=positiveValidatorForNumber</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForDouble;bean_name=positiveOrZeroValidatorForDouble</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForLong;bean_name=negativeOrZeroValidatorForLong</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForFloat;bean_name=positiveOrZeroValidatorForFloat</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForShort;bean_name=positiveValidatorForShort</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForInteger;bean_name=negativeOrZeroValidatorForInteger</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForLong;bean_name=negativeValidatorForLong</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForBigInteger;bean_name=positiveOrZeroValidatorForBigInteger</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForByte;bean_name=negativeOrZeroValidatorForByte</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForNumber;bean_name=negativeValidatorForNumber</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForBigDecimal;bean_name=positiveValidatorForBigDecimal</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForBigInteger;bean_name=negativeValidatorForBigInteger</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForFloat;bean_name=positiveValidatorForFloat</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForInteger;bean_name=positiveValidatorForInteger</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForFloat;bean_name=negativeOrZeroValidatorForFloat</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForNumber;bean_name=positiveOrZeroValidatorForNumber</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForBigDecimal;bean_name=negativeValidatorForBigDecimal</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForByte;bean_name=positiveValidatorForByte</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForBigInteger;bean_name=positiveValidatorForBigInteger</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForShort;bean_name=positiveOrZeroValidatorForShort</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForNumber;bean_name=minValidatorForNumber</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForBigDecimal;bean_name=maxValidatorForBigDecimal</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForLong;bean_name=maxValidatorForLong</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForDouble;bean_name=minValidatorForDouble</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForBigInteger;bean_name=minValidatorForBigInteger</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForNumber;bean_name=maxValidatorForNumber</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForBigDecimal;bean_name=minValidatorForBigDecimal</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForDouble;bean_name=maxValidatorForDouble</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForFloat;bean_name=maxValidatorForFloat</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForBigInteger;bean_name=maxValidatorForBigInteger</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForFloat;bean_name=minValidatorForFloat</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForLong;bean_name=minValidatorForLong</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForBigInteger;bean_name=decimalMinValidatorForBigInteger</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForNumber;bean_name=decimalMinValidatorForNumber</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.engine.constraintvalidation.LambdaBasedValidatorDescriptor.LambdaExecutor;bean_name=lambdaExecutor</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForBigDecimal;bean_name=decimalMinValidatorForBigDecimal</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForDouble;bean_name=decimalMinValidatorForDouble</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForBigInteger;bean_name=decimalMaxValidatorForBigInteger</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForDouble;bean_name=decimalMaxValidatorForDouble</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForFloat;bean_name=decimalMinValidatorForFloat</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForLong;bean_name=decimalMinValidatorForLong</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForFloat;bean_name=decimalMaxValidatorForFloat</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForBigDecimal;bean_name=decimalMaxValidatorForBigDecimal</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForNumber;bean_name=decimalMaxValidatorForNumber</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForLong;bean_name=decimalMaxValidatorForLong</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfChar;bean_name=notEmptyValidatorForArraysOfChar</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfFloat;bean_name=notEmptyValidatorForArraysOfFloat</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForCharSequence;bean_name=notEmptyValidatorForCharSequence</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfLong;bean_name=notEmptyValidatorForArraysOfLong</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForCollection;bean_name=notEmptyValidatorForCollection</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfShort;bean_name=notEmptyValidatorForArraysOfShort</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfInt;bean_name=notEmptyValidatorForArraysOfInt</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfBoolean;bean_name=notEmptyValidatorForArraysOfBoolean</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArray;bean_name=notEmptyValidatorForArray</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfDouble;bean_name=notEmptyValidatorForArraysOfDouble</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForMap;bean_name=notEmptyValidatorForMap</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfByte;bean_name=notEmptyValidatorForArraysOfByte</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.EmailValidator;bean_name=emailValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.EANValidator;bean_name=EANValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.ScriptAssertValidator;bean_name=scriptAssertValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.SafeHtmlValidator;bean_name=safeHtmlValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.URLValidator;bean_name=URLValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.Mod11CheckValidator;bean_name=mod11CheckValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.Mod10CheckValidator;bean_name=mod10CheckValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.LuhnCheckValidator;bean_name=luhnCheckValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.AbstractEmailValidator;bean_name=abstractEmailValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.NotBlankValidator;bean_name=notBlankValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.ParameterScriptAssertValidator;bean_name=parameterScriptAssertValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.NotBlankValidator;bean_name=notBlankValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.EmailValidator;bean_name=emailValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.CodePointLengthValidator;bean_name=codePointLengthValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.DecimalMinValidatorForCharSequence;bean_name=decimalMinValidatorForCharSequence</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.NotNullValidator;bean_name=notNullValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.LengthValidator;bean_name=lengthValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.PatternValidator;bean_name=patternValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.UniqueElementsValidator;bean_name=uniqueElementsValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.MaxValidatorForCharSequence;bean_name=maxValidatorForCharSequence</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.AssertFalseValidator;bean_name=assertFalseValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.ModCheckValidator;bean_name=modCheckValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.MinValidatorForCharSequence;bean_name=minValidatorForCharSequence</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.DecimalMaxValidatorForCharSequence;bean_name=decimalMaxValidatorForCharSequence</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.DigitsValidatorForCharSequence;bean_name=digitsValidatorForCharSequence</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.ISBNValidator;bean_name=ISBNValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.br.CPFValidator;bean_name=CPFValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.DigitsValidatorForNumber;bean_name=digitsValidatorForNumber</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.NullValidator;bean_name=nullValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.br.CNPJValidator;bean_name=CNPJValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.pl.NIPValidator;bean_name=NIPValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.pl.REGONValidator;bean_name=REGONValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.pl.PESELValidator;bean_name=PESELValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.time.DurationMaxValidator;bean_name=durationMaxValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.AssertTrueValidator;bean_name=assertTrueValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.hv.time.DurationMinValidator;bean_name=durationMinValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfByte;bean_name=sizeValidatorForArraysOfByte</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForMap;bean_name=sizeValidatorForMap</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArray;bean_name=sizeValidatorForArray</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForCharSequence;bean_name=sizeValidatorForCharSequence</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfBoolean;bean_name=sizeValidatorForArraysOfBoolean</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfShort;bean_name=sizeValidatorForArraysOfShort</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForCollection;bean_name=sizeValidatorForCollection</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfChar;bean_name=sizeValidatorForArraysOfChar</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfDouble;bean_name=sizeValidatorForArraysOfDouble</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfFloat;bean_name=sizeValidatorForArraysOfFloat</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfLong;bean_name=sizeValidatorForArraysOfLong</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfInt;bean_name=sizeValidatorForArraysOfInt</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForLocalDate;bean_name=pastValidatorForLocalDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForJapaneseDate;bean_name=pastValidatorForJapaneseDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForLocalDateTime;bean_name=pastValidatorForLocalDateTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForReadableInstant;bean_name=pastValidatorForReadableInstant</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForCalendar;bean_name=pastValidatorForCalendar</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForThaiBuddhistDate;bean_name=pastValidatorForThaiBuddhistDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForYearMonth;bean_name=pastValidatorForYearMonth</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForHijrahDate;bean_name=pastValidatorForHijrahDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForDate;bean_name=pastValidatorForDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForYear;bean_name=pastValidatorForYear</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForReadablePartial;bean_name=pastValidatorForReadablePartial</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForOffsetTime;bean_name=pastValidatorForOffsetTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForMonthDay;bean_name=pastValidatorForMonthDay</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForLocalTime;bean_name=pastValidatorForLocalTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForMinguoDate;bean_name=pastValidatorForMinguoDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForInstant;bean_name=pastValidatorForInstant</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForOffsetDateTime;bean_name=pastValidatorForOffsetDateTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForZonedDateTime;bean_name=pastValidatorForZonedDateTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForThaiBuddhistDate;bean_name=futureValidatorForThaiBuddhistDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForLocalDateTime;bean_name=futureValidatorForLocalDateTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForZonedDateTime;bean_name=futureValidatorForZonedDateTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForCalendar;bean_name=futureValidatorForCalendar</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForMonthDay;bean_name=futureValidatorForMonthDay</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForOffsetTime;bean_name=futureValidatorForOffsetTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForOffsetDateTime;bean_name=futureValidatorForOffsetDateTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForJapaneseDate;bean_name=futureValidatorForJapaneseDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForLocalTime;bean_name=futureValidatorForLocalTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForReadableInstant;bean_name=futureValidatorForReadableInstant</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForMinguoDate;bean_name=futureValidatorForMinguoDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForYearMonth;bean_name=futureValidatorForYearMonth</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForLocalDate;bean_name=futureValidatorForLocalDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForInstant;bean_name=futureValidatorForInstant</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForReadablePartial;bean_name=futureValidatorForReadablePartial</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.constraintvalidators.RegexpURLValidator;bean_name=regexpURLValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForHijrahDate;bean_name=futureValidatorForHijrahDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForDate;bean_name=futureValidatorForDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForYear;bean_name=futureValidatorForYear</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForCalendar;bean_name=pastOrPresentValidatorForCalendar</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForYearMonth;bean_name=pastOrPresentValidatorForYearMonth</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForLocalDate;bean_name=pastOrPresentValidatorForLocalDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForReadableInstant;bean_name=pastOrPresentValidatorForReadableInstant</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForMonthDay;bean_name=pastOrPresentValidatorForMonthDay</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForHijrahDate;bean_name=pastOrPresentValidatorForHijrahDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForOffsetDateTime;bean_name=pastOrPresentValidatorForOffsetDateTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForLocalTime;bean_name=pastOrPresentValidatorForLocalTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForOffsetTime;bean_name=pastOrPresentValidatorForOffsetTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForZonedDateTime;bean_name=pastOrPresentValidatorForZonedDateTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForThaiBuddhistDate;bean_name=pastOrPresentValidatorForThaiBuddhistDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForReadablePartial;bean_name=pastOrPresentValidatorForReadablePartial</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForInstant;bean_name=pastOrPresentValidatorForInstant</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForJapaneseDate;bean_name=pastOrPresentValidatorForJapaneseDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForDate;bean_name=pastOrPresentValidatorForDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForLocalDateTime;bean_name=pastOrPresentValidatorForLocalDateTime</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForMinguoDate;bean_name=pastOrPresentValidatorForMinguoDate</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForYear;bean_name=pastOrPresentValidatorForYear</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.cloudfoundry.servlet.CloudFoundryActuatorAutoConfiguration;bean_name=cloudFoundryActuatorAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.cloudfoundry.servlet.CloudFoundryHealthEndpointWebExtension;bean_name=cloudFoundryHealthEndpointWebExtension</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.cloudfoundry.servlet.CloudFoundryWebEndpointServletHandlerMapping;bean_name=cloudFoundryWebEndpointServletHandlerMapping</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.servlet.ServletManagementContextAutoConfiguration;bean_name=servletManagementContextAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.servlet.ServletManagementContextFactory;bean_name=servletWebChildContextFactory</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.web.servlet.ManagementServletContext;bean_name=managementServletContext</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.jdbc.DataSourcePoolMetricsAutoConfiguration;bean_name=dataSourcePoolMetricsAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.jdbc.DataSourcePoolMetricsAutoConfiguration.DataSourcePoolMetadataMetricsConfiguration;bean_name=dataSourcePoolMetadataMetricsConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.endpoint.jmx.JmxEndpointAutoConfiguration;bean_name=jmxEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.endpoint.jmx.annotation.JmxEndpointDiscoverer;bean_name=jmxAnnotationEndpointDiscoverer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.endpoint.jmx.JmxEndpointExporter;bean_name=jmxMBeanExporter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.endpoint.ExposeExcludePropertyEndpointFilter;bean_name=jmxIncludeExcludePropertyEndpointFilter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.endpoint.jmx.JmxEndpointProperties;bean_name=management.endpoints.jmx-org.springframework.boot.actuate.autoconfigure.endpoint.jmx.JmxEndpointProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.autoconfigure.WritableEnvironmentEndpointAutoConfiguration;bean_name=writableEnvironmentEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.context.environment.WritableEnvironmentEndpoint;bean_name=environmentEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.context.environment.WritableEnvironmentEndpointWebExtension;bean_name=environmentEndpointWebExtension</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.env.EnvironmentEndpointProperties;bean_name=management.endpoint.env-org.springframework.boot.actuate.autoconfigure.env.EnvironmentEndpointProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.MultipartAutoConfiguration;bean_name=multipartAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=javax.servlet.MultipartConfigElement;bean_name=multipartConfigElement</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.multipart.support.StandardServletMultipartResolver;bean_name=multipartResolver</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.MultipartProperties;bean_name=spring.servlet.multipart-org.springframework.boot.autoconfigure.web.servlet.MultipartProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration;bean_name=httpMessageConvertersAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.http.JacksonHttpMessageConvertersConfiguration;bean_name=jacksonHttpMessageConvertersConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.http.HttpMessageConverters;bean_name=messageConverters</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.http.JacksonHttpMessageConvertersConfiguration.MappingJackson2HttpMessageConverterConfiguration;bean_name=mappingJackson2HttpMessageConverterConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.http.converter.json.MappingJackson2HttpMessageConverter;bean_name=mappingJackson2HttpMessageConverter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.context.ConfigurationPropertiesAutoConfiguration;bean_name=configurationPropertiesAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.web.tomcat.TomcatMetricsAutoConfiguration;bean_name=tomcatMetricsAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.metrics.web.tomcat.TomcatMetricsBinder;bean_name=tomcatMetricsBinder</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration;bean_name=cacheAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration.CacheConfigurationImportSelector;bean_name=cacheConfigurationImportSelector</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.cache.CacheManagerCustomizers;bean_name=cacheManagerCustomizers</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration.CacheManagerValidator;bean_name=cacheAutoConfigurationValidator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.cache.SimpleCacheConfiguration;bean_name=simpleCacheConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cache.concurrent.ConcurrentMapCacheManager;bean_name=cacheManager</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.cache.CacheProperties;bean_name=spring.cache-org.springframework.boot.autoconfigure.cache.CacheProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.system.DiskSpaceHealthIndicatorAutoConfiguration;bean_name=diskSpaceHealthIndicatorAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.system.DiskSpaceHealthIndicator;bean_name=diskSpaceHealthIndicator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.system.DiskSpaceHealthIndicatorProperties;bean_name=diskSpaceHealthIndicatorProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.trace.http.HttpTraceAutoConfiguration;bean_name=httpTraceAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.trace.http.InMemoryHttpTraceRepository;bean_name=traceRepository</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.trace.http.HttpExchangeTracer;bean_name=httpExchangeTracer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.trace.http.HttpTraceProperties;bean_name=management.trace.http-org.springframework.boot.actuate.autoconfigure.trace.http.HttpTraceProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.autoconfigure.RefreshEndpointAutoConfiguration;bean_name=refreshEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.autoconfigure.RestartEndpointWithoutIntegrationConfiguration;bean_name=restartEndpointWithoutIntegrationConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.context.restart.RestartEndpoint;bean_name=restartEndpointWithoutIntegration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.autoconfigure.PauseResumeEndpointsConfiguration;bean_name=pauseResumeEndpointsConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.context.restart.RestartEndpoint.PauseEndpoint;bean_name=pauseEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.context.restart.RestartEndpoint.ResumeEndpoint;bean_name=resumeEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.health.RefreshScopeHealthIndicator;bean_name=refreshScopeHealthIndicator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.autoconfigure.RefreshEndpointAutoConfiguration.RefreshEndpointConfiguration;bean_name=refreshEndpointConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.endpoint.RefreshEndpoint;bean_name=refreshEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration;bean_name=webMvcAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.web.servlet.filter.OrderedHiddenHttpMethodFilter;bean_name=hiddenHttpMethodFilter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.web.servlet.filter.OrderedFormContentFilter;bean_name=formContentFilter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter;bean_name=webMvcAutoConfigurationAdapter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.view.InternalResourceViewResolver;bean_name=defaultViewResolver</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.view.ContentNegotiatingViewResolver;bean_name=viewResolver</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.LocaleResolver;bean_name=localeResolver</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping;bean_name=welcomePageHandlerMapping</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter.FaviconConfiguration;bean_name=faviconConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.handler.SimpleUrlHandlerMapping;bean_name=faviconHandlerMapping</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.web.servlet.resource.ResourceHttpRequestHandler;bean_name=faviconRequestHandler</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.info.InfoEndpointAutoConfiguration;bean_name=infoEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.info.InfoEndpoint;bean_name=infoEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.OAuth2AutoConfiguration;bean_name=OAuth2AutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.authserver.AuthorizationServerTokenServicesConfiguration;bean_name=authorizationServerTokenServicesConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.method.OAuth2MethodSecurityConfiguration;bean_name=OAuth2MethodSecurityConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.resource.OAuth2ResourceServerConfiguration;bean_name=OAuth2ResourceServerConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.resource.ResourceServerTokenServicesConfiguration;bean_name=resourceServerTokenServicesConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.resource.UserInfoRestTemplateFactory;bean_name=userInfoRestTemplateFactory</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.config.annotation.web.configuration.ResourceServerConfigurer;bean_name=resourceServer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.client.OAuth2RestOperationsConfiguration;bean_name=OAuth2RestOperationsConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.resource.ResourceServerProperties;bean_name=resourceServerProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.client.OAuth2RestOperationsConfiguration.RequestScopedConfiguration;bean_name=requestScopedConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.client.OAuth2ProtectedResourceDetailsConfiguration;bean_name=OAuth2ProtectedResourceDetailsConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.client.token.grant.code.AuthorizationCodeResourceDetails;bean_name=oauth2RemoteResource</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.client.DefaultOAuth2ClientContext;bean_name=oauth2ClientContext</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.client.OAuth2RestOperationsConfiguration.SessionScopedConfiguration;bean_name=sessionScopedConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.web.servlet.FilterRegistrationBean;bean_name=oauth2ClientFilterRegistration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.client.OAuth2RestOperationsConfiguration.SingletonScopedConfiguration;bean_name=singletonScopedConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.client.token.grant.client.ClientCredentialsResourceDetails;bean_name=oauth2RemoteResource</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.resource.ResourceServerTokenServicesConfiguration.JwtTokenServicesConfiguration;bean_name=jwtTokenServicesConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.provider.token.store.JwtAccessTokenConverter;bean_name=jwtTokenEnhancer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.resource.ResourceServerTokenServicesConfiguration.RemoteTokenServicesConfiguration;bean_name=remoteTokenServicesConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.resource.ResourceServerTokenServicesConfiguration.RemoteTokenServicesConfiguration.TokenInfoServicesConfiguration;bean_name=tokenInfoServicesConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.resource.ResourceServerTokenServicesConfiguration.RemoteTokenServicesConfiguration.UserInfoTokenServicesConfiguration;bean_name=userInfoTokenServicesConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.resource.ResourceServerTokenServicesConfiguration.JwkTokenStoreConfiguration;bean_name=jwkTokenStoreConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.authserver.AuthorizationServerTokenServicesConfiguration.JwtTokenServicesConfiguration;bean_name=jwtTokenServicesConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.authserver.OAuth2AuthorizationServerConfiguration.BaseClientDetailsConfiguration;bean_name=baseClientDetailsConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.oauth2.provider.client.BaseClientDetails;bean_name=oauth2ClientDetails</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.authserver.OAuth2AuthorizationServerConfiguration.ClientDetailsLogger;bean_name=clientDetailsLogger</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.authserver.AuthorizationServerProperties;bean_name=security.oauth2.authorization-org.springframework.boot.autoconfigure.security.oauth2.authserver.AuthorizationServerProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.oauth2.OAuth2ClientProperties;bean_name=security.oauth2.client-org.springframework.boot.autoconfigure.security.oauth2.OAuth2ClientProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration;bean_name=webSocketServletAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration;bean_name=restTemplateAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.web.client.RestTemplateBuilder;bean_name=restTemplateBuilder</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.cache.CacheMetricsAutoConfiguration;bean_name=cacheMetricsAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.cache.CacheMeterBinderProvidersConfiguration;bean_name=cacheMeterBinderProvidersConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.cache.CacheMetricsRegistrarConfiguration;bean_name=cacheMetricsRegistrarConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.metrics.cache.CacheMetricsRegistrar;bean_name=cacheMetricsRegistrar</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.health.HealthIndicatorAutoConfiguration;bean_name=healthIndicatorAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.health.ApplicationHealthIndicator;bean_name=applicationHealthIndicator</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.health.HealthIndicatorRegistry;bean_name=healthIndicatorRegistry</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.http.codec.CodecsAutoConfiguration;bean_name=codecsAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.endpoint.EndpointAutoConfiguration;bean_name=endpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.endpoint.invoke.ParameterValueMapper;bean_name=endpointOperationParameterMapper</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.endpoint.invoker.cache.CachingOperationInvokerAdvisor;bean_name=endpointCachingOperationInvokerAdvisor</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration;bean_name=propertyPlaceholderAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.context.support.PropertySourcesPlaceholderConfigurer;bean_name=propertySourcesPlaceholderConfigurer</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.info.InfoContributorAutoConfiguration;bean_name=infoContributorAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.info.EnvironmentInfoContributor;bean_name=envInfoContributor</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.info.GitInfoContributor;bean_name=gitInfoContributor</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.info.InfoContributor;bean_name=buildInfoContributor</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.info.InfoContributorProperties;bean_name=management.info-org.springframework.boot.actuate.autoconfigure.info.InfoContributorProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.cache.CachesEndpointAutoConfiguration;bean_name=cachesEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.cache.CachesEndpoint;bean_name=cachesEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.cache.CachesEndpointWebExtension;bean_name=cachesEndpointWebExtension</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.JvmMetricsAutoConfiguration;bean_name=jvmMetricsAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=io.micrometer.core.instrument.binder.jvm.JvmGcMetrics;bean_name=jvmGcMetrics</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=io.micrometer.core.instrument.binder.jvm.JvmMemoryMetrics;bean_name=jvmMemoryMetrics</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=io.micrometer.core.instrument.binder.jvm.JvmThreadMetrics;bean_name=jvmThreadMetrics</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=io.micrometer.core.instrument.binder.jvm.ClassLoaderMetrics;bean_name=classLoaderMetrics</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.CompositeMeterRegistryAutoConfiguration;bean_name=compositeMeterRegistryAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.NoOpMeterRegistryConfiguration;bean_name=noOpMeterRegistryConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=io.micrometer.core.instrument.composite.CompositeMeterRegistry;bean_name=noOpMeterRegistry</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.CompositeMeterRegistryConfiguration;bean_name=compositeMeterRegistryConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=io.micrometer.core.instrument.composite.CompositeMeterRegistry;bean_name=compositeMeterRegistry</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.serviceregistry.AutoServiceRegistrationAutoConfiguration;bean_name=autoServiceRegistrationAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.serviceregistry.AutoServiceRegistrationConfiguration;bean_name=autoServiceRegistrationConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.serviceregistry.AutoServiceRegistrationProperties;bean_name=spring.cloud.service-registry.auto-registration-org.springframework.cloud.client.serviceregistry.AutoServiceRegistrationProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.metrics.SystemMetricsAutoConfiguration;bean_name=systemMetricsAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=io.micrometer.core.instrument.binder.system.UptimeMetrics;bean_name=uptimeMetrics</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=io.micrometer.core.instrument.binder.system.ProcessorMetrics;bean_name=processorMetrics</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=io.micrometer.core.instrument.binder.system.FileDescriptorMetrics;bean_name=fileDescriptorMetrics</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.security.servlet.ManagementWebSecurityAutoConfiguration;bean_name=managementWebSecurityAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.security.servlet.ManagementWebSecurityConfigurerAdapter;bean_name=managementWebSecurityConfigurerAdapter</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.discovery.composite.CompositeDiscoveryClientAutoConfiguration;bean_name=compositeDiscoveryClientAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.client.discovery.composite.CompositeDiscoveryClient;bean_name=compositeDiscoveryClient</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.env.EnvironmentEndpointAutoConfiguration;bean_name=environmentEndpointAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.env.EnvironmentEndpoint;bean_name=environmentEndpoint</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.env.EnvironmentEndpointWebExtension;bean_name=environmentEndpointWebExtension</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.autoconfigure.audit.AuditAutoConfiguration;bean_name=auditAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.audit.listener.AuditListener;bean_name=auditListener</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.security.AuthenticationAuditListener;bean_name=authenticationAuditListener</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.actuate.security.AuthorizationAuditListener;bean_name=authorizationAuditListener</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.autoconfigure.security.servlet.SecurityFilterAutoConfiguration;bean_name=securityFilterAutoConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.web.servlet.DelegatingFilterProxyRegistrationBean;bean_name=securityFilterChainRegistration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration.VanillaEncryptionConfiguration;bean_name=vanillaEncryptionConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.security.crypto.encrypt.TextEncryptor;bean_name=textEncryptor</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.bootstrap.encrypt.KeyProperties;bean_name=encrypt-org.springframework.cloud.bootstrap.encrypt.KeyProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration;bean_name=encryptionBootstrapConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.bootstrap.encrypt.EnvironmentDecryptApplicationInitializer;bean_name=environmentDecryptApplicationListener</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration.RsaEncryptionConfiguration;bean_name=rsaEncryptionConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.bootstrap.encrypt.RsaProperties;bean_name=encrypt.rsa-org.springframework.cloud.bootstrap.encrypt.RsaProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration;bean_name=propertySourceBootstrapConfiguration</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.cloud.bootstrap.config.PropertySourceBootstrapProperties;bean_name=spring.cloud.config-org.springframework.cloud.bootstrap.config.PropertySourceBootstrapProperties</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.core.env.PropertyResolver;bean_name=propertyResolver</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.core.convert.ConversionService;bean_name=conversionService</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=javax.servlet.http.HttpServletRequest;bean_name=httpServletRequest</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=javax.servlet.ServletContext;bean_name=servletContext</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=javax.servlet.http.HttpSession;bean_name=httpSession</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=javax.servlet.ServletConfig;bean_name=servletConfig</node>
+            <node x="" y="">module=springsecurityoauth2_demo;bean_class=org.springframework.boot.ApplicationArguments;bean_name=springApplicationArguments</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8606583072100312" x="270.0" y="2061.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Local context</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/security/spring-security-config/3.2.10.RELEASE/spring-security-config-3.2.10.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1348">
+          <caret line="149" column="129" selection-start-line="149" selection-start-column="120" selection-end-line="149" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/security/spring-security-config/3.2.10.RELEASE/spring-security-config-3.2.10.RELEASE.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2751">
+          <caret line="52" column="50" lean-forward="true" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springsecurityoauth2_demo.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xxx/springsecurityoauth2_demo/Springsecurityoauth2DemoApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="50" column="20" selection-end-line="86" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/Springsecurityoauth2DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/config/ResourceServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/config/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#806#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xxx/springsecurityoauth2_demo/config/AuthorizationServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>springsecurityoauth2_demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
